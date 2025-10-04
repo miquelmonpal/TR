@@ -1,9 +1,10 @@
 [code]
 
 /**
- * BRAÇ ROBÒTIC PER AJUDAR PERSONES AMB DISCAPACITATS
+ * TREBALL DE RECERCA: Com un braç robòtic pot ajudar persones amb mobilitat reduïda
  * Autor: Miquel Monserrat Palau
  * Curs: 2 BATX - C
+ * Institut Manuel de Cabanyes (Vilanova i la Geltrú)
 */
 
 #include <Servo.h>

@@ -1,6 +1,6 @@
-# BRAÇ ROBÒTIC PER AJUDAR PERSONES AMB DISCAPACITATS
+# COM UN BRAÇ ROBÒTIC POT AJUDAR PERSONES AMB MOBILITAT REDUÏDA
 
-Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C++** i els **fitxers 3D** del projecte *Braç robòtic per ajudar persones amb discapacitats*.
+Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C++** i els **fitxers 3D** del projecte *Com un braç robòtic pot ajudar persones amb mobilitat reduïda*.
 
 ---
 
@@ -8,7 +8,7 @@ Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C+
 - **Autor:** Miquel Monserrat Palau  
 - **Curs:** 2 BATX - C
 - **Institut:** Manuel de Cabanyes (Vilanova i la Geltrú)  
-- **Projecte:** Braç robòtic per ajudar persones amb discapacitats
+- **Projecte:** Com un braç robòtic pot ajudar persones amb mobilitat reduïda
 
 ---
 

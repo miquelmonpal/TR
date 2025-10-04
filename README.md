@@ -23,18 +23,19 @@ Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C+
 
 | Carpeta | Descripció |
 |---|---|
-| `/codi` | Codi font en C++ (fitxers `.cpp` i `.h`) per al control del braç. |
-| `/peces_3D` | Models 3D de les peces (formats recomanats: `.stl`, `.step`). |
+| `/codi` | Codi font en C++ per al control del braç. |
+| `/peces_3D` | Models 3D de les peces. |
 | `/imatges` | Fotografies, renders o esquemes. |
-| `/docs` | Documentació addicional (esquemes, memòries, instruccions). |
+| `/docs` | Documentació addicional. |
 
 ---
 
-## ⚙️ REQUERIMENTS DE MAQUINARI
+## ⚙️ REQUERIMENTS DE HARDWARE
 - **Placa Arduino UNO o similar**  
 - **Servomotors**   
 - **Potenciòmetres**
-- **Font d'alimentació 5V estable** 
+- **Protoboard**
+- **Font d'alimentació 5V** 
 - **Cables i cargols**  
 
 
@@ -54,7 +55,7 @@ Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C+
 2. Muntatge recomanat:
    - Fixa la base al suport.
    - Col·loca els servos als allotjaments i centra’ls abans de fixar-los.
-   - Uneix segments i pinça, verificant el correcte moviment.
+   - Verifica el correcte moviment.
    - Alimenta i prova moviments suaus abans d’esforços.
 
 ---

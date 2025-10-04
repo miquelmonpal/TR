@@ -1,13 +1,14 @@
-# BRAÇ ROBÒTIC PER AJUDAR PERSONES AMB DISCAPACITATS
+# COM UN BRAÇ ROBÒTIC POT AJUDAR PERSONES AMB MOBILITAT REDUÏDA
 
-Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C++** i els **fitxers 3D** del projecte *Braç robòtic per ajudar persones amb discapacitats*.
+Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C++** i els **fitxers 3D** del projecte *Com un braç robòtic pot ajudar persones amb mobilitat reduïda*.
 
 ---
 
 ## 👤 DADES DEL PROJECTE
 - **Autor:** Miquel Monserrat Palau  
-- **Curs:** 2 BATX - A  
-- **Projecte:** Braç robòtic per ajudar persones amb discapacitats
+- **Curs:** 2 BATX - C
+- **Institut:** Manuel de Cabanyes (Vilanova i la Geltrú)  
+- **Projecte:** Com un braç robòtic pot ajudar persones amb mobilitat reduïda
 
 ---
 
@@ -42,7 +43,7 @@ Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C+
 ## 💻 COMPILACIÓ I CÀRREGA (C++)
 1. Obre **Arduino IDE**.
 2. Importa els fitxers del directori `/codi`.
-3. Revisa i ajusta els **pins** dels servos i sensors a `control_servos.h`.
+3. Revisa i ajusta els **pins** dels servos i sensors.
 4. Connecta la placa via USB i prem **Upload**.
 
 
@@ -53,7 +54,7 @@ Aquest repositori forma part del **Treball de Recerca** i conté el **codi en C+
 2. Muntatge recomanat:
    - Fixa la base al suport.
    - Col·loca els servos als allotjaments i centra’ls abans de fixar-los.
-   - Uneix segments i pinça, verificant llibertats de moviment.
+   - Uneix segments i pinça, verificant el correcte moviment.
    - Alimenta i prova moviments suaus abans d’esforços.
 
 ---
